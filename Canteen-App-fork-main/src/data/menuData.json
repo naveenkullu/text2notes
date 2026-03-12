@@ -1,0 +1,92 @@
+{
+  "menuItems": [
+    {
+      "id": "1",
+      "name": "Masala Dosa",
+      "price": 60,
+      "description": "Crispy golden dosa with spiced potato filling, served with sambar & chutney",
+      "image": "https://images.unsplash.com/photo-1668236543090-82eb5eace6d2?w=500&auto=format&fit=crop",
+      "category": "South Indian",
+      "emoji": "🫓",
+      "isVeg": true,
+      "rating": 4.8
+    },
+    {
+      "id": "2",
+      "name": "Veg Biryani",
+      "price": 120,
+      "description": "Aromatic basmati rice cooked with fresh vegetables and whole spices",
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=500&auto=format&fit=crop",
+      "category": "Main Course",
+      "emoji": "🍛",
+      "isVeg": true,
+      "rating": 4.6
+    },
+    {
+      "id": "3",
+      "name": "Paneer Tikka",
+      "price": 150,
+      "description": "Tender cottage cheese marinated in spices, grilled to perfection",
+      "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=500&auto=format&fit=crop",
+      "category": "Starters",
+      "emoji": "🧀",
+      "isVeg": true,
+      "rating": 4.7
+    },
+    {
+      "id": "4",
+      "name": "Samosa (2 pcs)",
+      "price": 30,
+      "description": "Crispy pastry stuffed with spiced potatoes and peas, fried golden",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&auto=format&fit=crop",
+      "category": "Snacks",
+      "emoji": "🥟",
+      "isVeg": true,
+      "rating": 4.5
+    },
+    {
+      "id": "5",
+      "name": "Chole Bhature",
+      "price": 80,
+      "description": "Spiced chickpea curry served with fluffy deep-fried bread",
+      "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=500&auto=format&fit=crop",
+      "category": "North Indian",
+      "emoji": "🫔",
+      "isVeg": true,
+      "rating": 4.9
+    },
+    {
+      "id": "6",
+      "name": "Cold Coffee",
+      "price": 50,
+      "description": "Chilled blended coffee with milk and a scoop of vanilla ice cream",
+      "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=500&auto=format&fit=crop",
+      "category": "Beverages",
+      "emoji": "☕",
+      "isVeg": true,
+      "rating": 4.4
+    },
+    {
+      "id": "7",
+      "name": "Veg Burger",
+      "price": 70,
+      "description": "Crispy veggie patty with fresh lettuce, tomato and special sauce",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=500&auto=format&fit=crop",
+      "category": "Fast Food",
+      "emoji": "🍔",
+      "isVeg": true,
+      "rating": 4.3
+    },
+    {
+      "id": "8",
+      "name": "Gulab Jamun",
+      "price": 40,
+      "description": "Soft milk-solid dumplings soaked in rose-flavored sugar syrup",
+      "image": "https://images.unsplash.com/photo-1666190066807-d3b3b7c8d773?w=500&auto=format&fit=crop",
+      "category": "Desserts",
+      "emoji": "🍮",
+      "isVeg": true,
+      "rating": 4.8
+    }
+  ]
+}

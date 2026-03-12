@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "da69a792-4c9a-4c37-87a7-7d0ae9414641"
+      }
+    },
+    "owner": "ritvikmudgal",
+    "android": {
+      "package": "com.ritvikmudgal.canteenapp"
+    }
+  }
+}
